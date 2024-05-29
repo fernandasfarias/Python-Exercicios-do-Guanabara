@@ -10,4 +10,3 @@ while True:
             continuar = str(input('Deseja continuar? [S/N] ')).upper()[0]
         if continuar == 'N':
             break
-print(num_por_extenso[-1:-5])
