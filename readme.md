@@ -10,3 +10,4 @@
         - [Exercício Python #072 - Número por extenso ➕](https://youtu.be/ei2Kr3ccfO0?feature=shared)
         - [Exercício Python #073 - Tuplas com times de futebol](https://youtu.be/RexybLcGewA?feature=shared) 
         - [Exercício Python #074 - Maior e menor valores em Tupla ➕](https://youtu.be/mlwt2CRQkTQ?feature=shared)
+        - [Exercício Python #075 - Análise de dados em uma tupla](https://youtu.be/1u7oA8ckjAc?feature=shared)
